@@ -1,0 +1,18 @@
+# Ignorar archivos y carpetas generados por Eclipse
+.classpath
+.project
+.settings/
+
+# Carpeta de salida de compilación de Maven
+target/
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorar binarios o resultados de ejecución si los hubiera
+*.class
