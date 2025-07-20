@@ -6,6 +6,9 @@
 # Carpeta de salida de compilación de Maven
 target/
 
+
+changeWallpaper/
+
 # Archivos temporales del sistema
 *.log
 *.tmp
